@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hello world
 bye bye world 
 this is the end 
 of the world
+=======
+hi developer this side
+hello world
+end of the day
+>>>>>>> e5d5405 (vishal added a new file)
